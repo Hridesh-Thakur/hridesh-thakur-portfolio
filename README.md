@@ -29,6 +29,12 @@ I actively develop and deploy web applications, create interactive games, and bu
 
 ## 📫 Connect
 
+### 📧 Email
+**hrithakur01@gmail.com**
+
+### 💼 LinkedIn
+/[LinkedIn Profile Link](https://www.linkedin.com/in/hridesh-thakur-762857167/)
+
 ### 🌐 My Portfolio
 **Check out my live portfolio website:**  
 [https://hridesh-portfolio.vercel.app/](https://hridesh-portfolio.vercel.app/)
