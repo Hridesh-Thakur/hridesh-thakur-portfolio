@@ -1,21 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hridesh Thakur - Portfolio
 
-## Getting Started
+<!-- Badges -->
+![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)
 
-First, run the development server:
+## 👋 About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I'm **Hridesh Thakur**, a Computer Science and Engineering undergraduate specializing in AI/ML at LNCT University, Bhopal. I'm passionate about web development, game programming, and creating interactive 3D web experiences.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Skills
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Frontend
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- 3D Web Design
 
+### Development Areas
+- Web Development
+- Game Development (2D JavaScript games)
+- AI/Chatbot Development
+- Data Structures & Algorithms
 
+## 🚀 Projects
+
+I actively develop and deploy web applications, create interactive games, and build AI/chatbot projects. All my work is documented on GitHub and deployed on Vercel.
+
+## 📫 Connect
+
+### 🌐 My Portfolio
+**Check out my live portfolio website:**  
+[https://hridesh-portfolio.vercel.app/](https://hridesh-portfolio.vercel.app/)
+
+---
+
+Made with ❤️ by Hridesh Thakur
