@@ -89,7 +89,7 @@ function RobotAnimation() {
           viewport={{ once: true }}
           className="text-center mb-12 relative z-10"
         >
-          <h2 className="text-3xl font-bold">its mee</h2>
+          <h2 className="text-3xl font-bold"></h2>
         </motion.div>
 
       <motion.div
