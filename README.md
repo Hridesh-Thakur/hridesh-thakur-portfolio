@@ -1,4 +1,4 @@
-# Hridesh Thakur - Portfolio                            
+# Hridesh Thakur - Portfolio                               
 
 <!-- Badges with Links -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel)](https://hridesh-portfolio.vercel.app/)
