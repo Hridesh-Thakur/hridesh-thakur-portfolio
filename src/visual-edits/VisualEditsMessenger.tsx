@@ -16,7 +16,7 @@ const postMessageDedup = (data: any) => {
     if (key === _orchidsLastMsg) return; // identical – drop
     _orchidsLastMsg = key;
   } catch {
-    // if stringify fails, fall through
+    // if stringify fails, fall through  
   }
   window.parent.postMessage(data, "*");
 };
