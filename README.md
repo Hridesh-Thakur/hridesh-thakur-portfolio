@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hridesh-Thakur)
 
 ## 👋 About Me
-
+   
 I'm **Hridesh Thakur**, a Computer Science and Engineering undergraduate specializing in AI/ML at LNCT University, Bhopal. I'm passionate about web development, game programming, and creating interactive 3D web experiences.
 
 ## 🛠️ Skills
