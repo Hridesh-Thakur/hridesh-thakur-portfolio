@@ -1,5 +1,5 @@
 # Hridesh Thakur - Portfolio                                              
-        
+          
 <!-- Badges with Links -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel)](https://hridesh-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hridesh-Thakur)
