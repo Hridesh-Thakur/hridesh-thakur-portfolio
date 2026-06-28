@@ -1,44 +1,36 @@
-# Hridesh Thakur - Portfolio                                              
-                        
-<!-- Badges with Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel)](https://hridesh-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hridesh-Thakur)
-   
-## 👋 About Me
-   
-I'm **Hridesh Thakur**, a Computer Science and Engineering undergraduate specializing in AI/ML at LNCT University, Bhopal. I'm passionate about web development, game programming, and creating interactive 3D web experiences.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## 🛠️ Skills
+## Getting Started
 
-### Frontend
-- React
-- Tailwind CSS
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- 3D Web Design
+First, run the development server:
 
-### Development Areas
-- Web Development
-- Game Development (2D JavaScript games)
-- AI/Chatbot Development
-- Data Structures & Algorithms
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## 🚀 Projects
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-I actively develop and deploy web applications, create interactive games, and build AI/chatbot projects. All my work is documented on GitHub and deployed on Vercel.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## 📫 Connect
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### 📧 Email
-**hrithakur01@gmail.com**
+## Learn More
 
-### 💼 LinkedIn
-[LinkedIn Profile Link](https://www.linkedin.com/in/hridesh-thakur-762857167/)
+To learn more about Next.js, take a look at the following resources:
 
-### 🌐 My Portfolio
-**Check out my live portfolio website:**  
-[https://hridesh-portfolio.vercel.app/](https://hridesh-portfolio.vercel.app/)
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-Made with ❤️ by Hridesh Thakur
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
